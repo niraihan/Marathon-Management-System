@@ -1,4 +1,3 @@
-✅ README.md (Complete Copy-Paste Ready)
 
 # 🏃‍♂️ Marathon Management System
 
